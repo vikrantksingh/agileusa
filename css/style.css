@@ -1420,7 +1420,7 @@ body.page-loaded .preloader svg path {
   width: 100%;
 }
 .navbar.dark {
-  background: #3A3089;
+  background: linear-gradient(90deg, #6c1d5f 19%, #300d2a 81%);
 }
 .navbar.navbar-light {
   background: transparent;
@@ -1440,7 +1440,7 @@ body.page-loaded .preloader svg path {
   min-height: 600px;
   display: flex;
   flex-wrap: wrap;
-  background: #3A3089;
+  background: linear-gradient(90deg, #6c1d5f 19%, #300d2a 81%);
   position: relative;
   padding-top: 122px;
 }
